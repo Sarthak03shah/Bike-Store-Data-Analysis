@@ -52,7 +52,7 @@ The project focuses on:
 
 ---
 
-**## Key Insights**
+## Key Insights
 - Relationship between income levels and bike purchases.
 - Impact of demographics (gender, age, and region) on buying behavior.
 - Influence of commute distance and number of cars owned on decisions.
