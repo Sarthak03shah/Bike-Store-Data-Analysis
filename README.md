@@ -14,7 +14,7 @@ The project focuses on:
 
 ---
 
-**## Tools Used**
+## Tools Used
 
 1. **Excel**:
    - Data cleaning and preprocessing.
@@ -27,7 +27,7 @@ The project focuses on:
 
 ---
 
-**## Data Details**
+## Data Details
 
 ### `bike_buyers`
 - Contains customer information such as:
@@ -59,7 +59,7 @@ The project focuses on:
 
 ---
 
-**## How to Use This Repository**
+## How to Use This Repository
 
 1. **Data Files**: Explore the `bike_buyers` sheet for raw data.
 2. **SQL Queries**: Refer to the included SQL scripts for transformations (if uploaded).
@@ -69,14 +69,14 @@ The project focuses on:
 
 ---
 
-**## Future Enhancements**
+## Future Enhancements
 - Automating data analysis with Python.
 - Expanding insights with advanced visualizations in Power BI or Tableau.
 - Exploring predictive analytics with machine learning models.
 
 ---
 
-**## Contact**
+## Contact
 For questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/yourusername/yourrepository/issues).
 
 ---
