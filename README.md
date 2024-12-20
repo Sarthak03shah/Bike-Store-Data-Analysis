@@ -76,9 +76,4 @@ The project focuses on:
 
 ---
 
-## Contact
-For questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/yourusername/yourrepository/issues).
-
----
-
 Thank you for exploring this project!
