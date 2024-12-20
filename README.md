@@ -1,10 +1,10 @@
-**# Bike Sales Analysis Project**
+# Bike Sales Analysis Project
 
 This project analyzes a dataset related to bike purchases using **Excel** and **SQL** to derive insights and create a dashboard for visualization. The goal is to identify trends and patterns in customer demographics and purchasing behavior.
 
 ---
 
-**## Project Overview**
+## Project Overview
 
 The project focuses on:
 - Cleaning and preprocessing raw data.
