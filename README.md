@@ -59,16 +59,6 @@ The project focuses on:
 
 ---
 
-## How to Use This Repository
-
-1. **Data Files**: Explore the `bike_buyers` sheet for raw data.
-2. **SQL Queries**: Refer to the included SQL scripts for transformations (if uploaded).
-3. **Excel Workbook**: Open the provided workbook to:
-   - Analyze pivot tables.
-   - Interact with the dashboard.
-
----
-
 ## Future Enhancements
 - Automating data analysis with Python.
 - Expanding insights with advanced visualizations in Power BI or Tableau.
